@@ -4,7 +4,7 @@ TOP = $(realpath $(dir $(lastword $(MAKEFILE_LIST))))
 
 # Version
 MAJOR=3
-MINOR=26
+MINOR=27
 PATCH=4
 RELEASE=1
 PKGNAME=vespa-cmake
